@@ -1,0 +1,25 @@
+{
+  "name": "flexboxgrid-stylus",
+  "version": "1.0.0",
+  "description": "Stylus version of flexboxgrid",
+  "main": "flexboxgrid.styl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michielvandergeest/flexboxgrid-stylus.git"
+  },
+  "keywords": [
+    "flexboxgrid",
+    "css",
+    "stylus"
+  ],
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "author": "Michiel van der Geest <hello@michielvandergeest.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/michielvandergeest/flexboxgrid-stylus",
+  "dependencies": {
+    "flexboxgrid": "latest",
+    "stylus": "latest"
+  }
+}
