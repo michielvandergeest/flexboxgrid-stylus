@@ -18,7 +18,7 @@ which can then be easily imported via *NPM* into the working project.
  Install using NPM
 
  ```
- npm install normalize-styl --save
+ npm install flexboxgrid-stylus --save
  ```
 
  ## How to use it
